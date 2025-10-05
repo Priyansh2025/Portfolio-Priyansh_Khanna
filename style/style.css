@@ -132,7 +132,7 @@ html {
   height: 380px;
   width: 400px;
   border-radius: 50%;
-  background-image: url(img/pic.png);
+  background-image: url(../img/pic.png);
   background-size: cover;
   background-repeat: no-repeat;
   transition-duration: 0.3s;
@@ -187,17 +187,17 @@ section h1 {
   background-size: contain;
 }
 .skill2 {
-  background-image: url(/img/css.png);
+  background-image: url(../img/css.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
 .skill3 {
-  background-image: url(/img/js.png);
+  background-image: url(../img/js.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
 .skill4 {
-  background-image: url(/img/java.png);
+  background-image: url(../img/java.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -436,4 +436,3 @@ footer {
     font-size: 1rem;
   }
 }
-
