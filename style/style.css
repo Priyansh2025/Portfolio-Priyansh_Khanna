@@ -132,7 +132,7 @@ html {
   height: 380px;
   width: 400px;
   border-radius: 50%;
-  background-image: url(/img/pic.png);
+  background-image: url(img/pic.png);
   background-size: cover;
   background-repeat: no-repeat;
   transition-duration: 0.3s;
@@ -182,7 +182,7 @@ section h1 {
 }
 
 .skill1 {
-  background-image: url(/img/html.png);
+  background-image: url(../img/html.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
