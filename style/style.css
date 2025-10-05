@@ -182,17 +182,17 @@ section h1 {
 }
 
 .skill1 {
-  background-image: url(../img/html.png);
+  background-image: url(../img/html2.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
 .skill2 {
-  background-image: url(../img/css.png);
+  background-image: url(../img/css2.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
 .skill3 {
-  background-image: url(../img/js.png);
+  background-image: url(../img/javascript2.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -200,6 +200,22 @@ section h1 {
   background-image: url(../img/java.png);
   background-repeat: no-repeat;
   background-size: contain;
+}
+
+.skillname {
+  color: white;
+  font-weight:bolder;
+  font-size: 2rem;
+  height: 50px;
+  width: 180px;
+  position:relative;
+  top: 190px;
+  left: 40px;
+}
+
+.css{
+  position: relative;
+  left: 65px;
 }
 
 .proj-sec {
