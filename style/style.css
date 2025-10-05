@@ -195,25 +195,28 @@ section h1 {
   background-image: url(../img/javascript2.png);
   background-repeat: no-repeat;
   background-size: contain;
+  position: relative;
 }
 .skill4 {
-  background-image: url(../img/java.png);
+  background-image: url(../img/java2.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .skillname {
   color: white;
-  font-weight:bolder;
-  font-size: 2rem;
+  font-weight: bolder;
+  font-size: 1.8rem;
   height: 50px;
   width: 180px;
-  position:relative;
+  position: relative;
   top: 190px;
-  left: 40px;
+  margin-bottom: 10px;
+  left: 55px;
+
 }
 
-.css{
+.css {
   position: relative;
   left: 65px;
 }
